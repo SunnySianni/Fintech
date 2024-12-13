@@ -1,9 +1,9 @@
 # Fintech
 
-Project Summary: FinTech Application
+# Project Summary: FinTech Application
 The FinTech Application is a web-based project designed to manage user accounts and their financial transactions. It leverages modern technologies such as Node.js, Express.js, and MySQL to deliver a robust and scalable backend. The application provides features like user creation, transaction management, and database interaction using RESTful APIs, and serves a simple HTML frontend.
 
-Features
+# Features
 
 User Account Management:
 Users can create accounts with validation for secure and accurate data entry.
@@ -72,7 +72,7 @@ GET /status: Check if the server is running.
 
 
 
-Project Structure
+# Project Structure
 
 
 fintech-app/
