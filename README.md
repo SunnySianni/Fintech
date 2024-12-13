@@ -70,6 +70,8 @@ GET /transactions: Retrieve all transactions for a specific user.
 GET /status: Check if the server is running.
 
 
+
+
 Project Structure
 
 
@@ -89,6 +91,8 @@ fintech-app/
 ├── .env                     # Environment variables
 ├── package.json             # Project metadata and dependencies
 └── README.md                # Project documentation
+
+
 
 How It Works
 Database Integration:
